@@ -1,0 +1,6 @@
+# Default alert sound
+btn402.mp3
+https://freesound.org/people/junggle/sounds/26777/
+Author: https://freesound.org/people/junggle/
+License: "This work is licensed under the Attribution License."
+         http://creativecommons.org/licenses/by/3.0/
